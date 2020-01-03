@@ -9,6 +9,7 @@ class Sp11ZuulApplicationTests {
 	@Test
 	void contextLoads() {
             System.out.println("dsadsadasdsadsad");
+            int a=20;
 	}
 
 }
